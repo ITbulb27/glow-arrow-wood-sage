@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Finora",
+      "hasCanvas": false,
+      "bodyTextLen": 407,
+      "bodyTextHash": "4529f3a4ccb2616e74a06c367bab9df38a53a440229c052f7b883884d9de32ee",
+      "bodyTextPrefix": "F Finora Dashboard Accounts Transactions Budgets Goals Reports S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Finora",
+      "hasCanvas": false,
+      "bodyTextLen": 378,
+      "bodyTextHash": "825723b935b64687fc54d62f923a914c8bbc4721e9e004fafa0a893f54abe24d",
+      "bodyTextPrefix": "F Finora AM Dashboard This month at a glance Total balance $24,8",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
